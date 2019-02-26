@@ -420,3 +420,9 @@ template {
 #hsla{
   background-color:hsla(10, 100%, 64%, 0.2);
 }
+
+a{
+  background-color: aquamarine;
+  border: 1px solid black;
+  padding: 2px;
+}
